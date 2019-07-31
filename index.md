@@ -25,3 +25,10 @@ In this paper, we explore an algorithm to determine the relevance of each item i
 **May 2013**
 
 Augmented reality combined with modern day smartphones equipped with cameras, magnetometers, and with the ability to display maps on the screen make a powerful tool that can be used in a plethora of different applications. This paper explores the math that goes behind such apps and the implementation of a completely functional project. ([Continue reading...](argeom.md))
+
+
+### Multithreading - An extensive study on Linux, OpenSolaris, and Windows
+
+**Apr 2010**
+
+There are many reasons why one may choose a particular operating system to run on their computer: availability of software, technical skills, etc. Among those reasons one may choose the operating system with the best performance, or the one with the lowest cost per transaction. This paper examines three operating systems (Linux, OpenSolaris, and Windows) and their respective capabilities of taking advantage of the multiple cores present in modern processors by executing operations with integers, floating points and math, and I/O in a multithreaded way, achieving parallelism in the execution of those operations, and then tries to reason the measurements from the experiments in the economics of an operating system. ([Continue reading...](multithreading.md))

@@ -19,3 +19,9 @@ Culture is not organic, it is cultivated. It ought to be built on top of a found
 **Sep 2016**
 
 In this paper, we explore an algorithm to determine the relevance of each item in a finite set of items in reference to each other to address an item you have to first go through a convergence or proxy item. If we imagine a media streaming company (convergence item) and all its available genres for playback (items in a finite set), how relevant is each music genre at different moments in time? Or with a sports broadcasting company and the covered sports, how does the relevance of each sport changes throughout the year as sports seasons begin and end? ([Continue reading...](convergence_rank.md))
+
+### ARGEOM - Augmented Reality Geolocation Math
+
+**May 2013**
+
+Augmented reality combined with modern day smartphones equipped with cameras, magnetometers, and with the ability to display maps on the screen make a powerful tool that can be used in a plethora of different applications. This paper explores the math that goes behind such apps and the implementation of a completely functional project. ([Continue reading...](argeom.md))

@@ -16,4 +16,4 @@ This is the motivation behind this paper: A study quantifying the impact of the 
 
 ## Download
 
-You can download the paper here: [https://github.com/dcirne/dcirne.github.io/files/3423561/Engineering_Velocity.pdf](https://github.com/dcirne/dcirne.github.io/files/3423561/Engineering_Velocity.pdf)
+You can download the paper here: [https://github.com/dcirne/dcirne.github.io/files/3452215/Engineering_Velocity.pdf](https://github.com/dcirne/dcirne.github.io/files/3452215/Engineering_Velocity.pdf)
